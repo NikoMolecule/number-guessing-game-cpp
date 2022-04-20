@@ -6,7 +6,6 @@ int main() {
   int n, i = 0;
   cout << "Hello, this is number guessing game, you have 3 tries to find number between 1 to 10" << endl;
   cout << "Lets start, enter the first number!" << endl;
-  cout << randomNum << endl;
 
   while(i != 3){
     cin >> n;
